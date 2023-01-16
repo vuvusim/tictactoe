@@ -1,4 +1,5 @@
-# tic_tac_toe
+# tictactoe
+
 
 # Installation
 * 1 - clone repo https://github.com/vuvusim/tictactoe.git
